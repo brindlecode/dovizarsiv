@@ -1635,5 +1635,25 @@
       "TP.DK.USD.S": "45.71340000",
       "TP.DK.USD.S.EF": "45.78200000"
     }
+  },
+  {
+    "sourceDate": "2026-10-30",
+    "reason": "carry_over",
+    "repeats": "2026-10-28",
+    "fetchedAt": "2026-10-28T19:06:48.463Z",
+    "values": {
+      "TP.DK.EUR.A": "55.42430000",
+      "TP.DK.EUR.A.EF": "55.38550000",
+      "TP.DK.EUR.S": "55.52410000",
+      "TP.DK.EUR.S.EF": "55.60740000",
+      "TP.DK.GBP.A": "66.09440000",
+      "TP.DK.GBP.A.EF": "66.04810000",
+      "TP.DK.GBP.S": "66.43890000",
+      "TP.DK.GBP.S.EF": "66.53860000",
+      "TP.DK.USD.A": "49.69970000",
+      "TP.DK.USD.A.EF": "49.66490000",
+      "TP.DK.USD.S": "49.78920000",
+      "TP.DK.USD.S.EF": "49.86390000"
+    }
   }
 ]
