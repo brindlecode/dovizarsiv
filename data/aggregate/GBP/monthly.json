@@ -1,7 +1,7 @@
 {
   "currency": "GBP",
   "dateConvention": "determination-date",
-  "lastDate": "2026-11-03",
+  "lastDate": "2026-11-04",
   "months": [
     {
       "key": "1950-01",
@@ -68357,99 +68357,99 @@
     },
     {
       "key": "2026-11",
-      "count": 2,
+      "count": 3,
       "flat": false,
       "fields": {
         "forexBuying": {
-          "count": 2,
+          "count": 3,
           "first": {
             "date": "2026-11-02",
             "value": "66.8096"
           },
           "last": {
-            "date": "2026-11-03",
-            "value": "66.8412"
+            "date": "2026-11-04",
+            "value": "67.195"
           },
           "min": {
             "date": "2026-11-02",
             "value": "66.8096"
           },
           "max": {
-            "date": "2026-11-03",
-            "value": "66.8412"
+            "date": "2026-11-04",
+            "value": "67.195"
           },
-          "mean": "66.8254",
-          "changePct": "0.047298591819"
+          "mean": "66.9486",
+          "changePct": "0.576863205288"
         },
         "forexSelling": {
-          "count": 2,
+          "count": 3,
           "first": {
             "date": "2026-11-02",
             "value": "67.1579"
           },
           "last": {
-            "date": "2026-11-03",
-            "value": "67.1896"
+            "date": "2026-11-04",
+            "value": "67.5454"
           },
           "min": {
             "date": "2026-11-02",
             "value": "67.1579"
           },
           "max": {
-            "date": "2026-11-03",
-            "value": "67.1896"
+            "date": "2026-11-04",
+            "value": "67.5454"
           },
-          "mean": "67.17375",
-          "changePct": "0.047202190658"
+          "mean": "67.297633333333",
+          "changePct": "0.576998387383"
         },
         "cashBuying": {
-          "count": 2,
+          "count": 3,
           "first": {
             "date": "2026-11-02",
             "value": "66.7629"
           },
           "last": {
-            "date": "2026-11-03",
-            "value": "66.7944"
+            "date": "2026-11-04",
+            "value": "67.148"
           },
           "min": {
             "date": "2026-11-02",
             "value": "66.7629"
           },
           "max": {
-            "date": "2026-11-03",
-            "value": "66.7944"
+            "date": "2026-11-04",
+            "value": "67.148"
           },
-          "mean": "66.77865",
-          "changePct": "0.047181892938"
+          "mean": "66.901766666667",
+          "changePct": "0.576817364135"
         },
         "cashSelling": {
-          "count": 2,
+          "count": 3,
           "first": {
             "date": "2026-11-02",
             "value": "67.2587"
           },
           "last": {
-            "date": "2026-11-03",
-            "value": "67.2904"
+            "date": "2026-11-04",
+            "value": "67.6467"
           },
           "min": {
             "date": "2026-11-02",
             "value": "67.2587"
           },
           "max": {
-            "date": "2026-11-03",
-            "value": "67.2904"
+            "date": "2026-11-04",
+            "value": "67.6467"
           },
-          "mean": "67.27455",
-          "changePct": "0.047131449166"
+          "mean": "67.3986",
+          "changePct": "0.576877043416"
         }
       },
       "closingSelling": {
-        "date": "2026-11-03",
-        "value": "67.1896"
+        "date": "2026-11-04",
+        "value": "67.5454"
       },
-      "closingChangePct": "0.257396992708"
+      "closingChangePct": "0.788306268102"
     }
   ]
 }
