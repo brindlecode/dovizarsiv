@@ -1,12 +1,12 @@
 {
   "currency": "USD",
   "dateConvention": "determination-date",
-  "lastDate": "2026-11-24",
+  "lastDate": "2026-11-25",
   "allTime": {
     "forexBuying": {
       "max": {
-        "date": "2026-11-24",
-        "value": "50.5376"
+        "date": "2026-11-25",
+        "value": "50.5531"
       },
       "min": {
         "date": "1950-01-02",
@@ -15,8 +15,8 @@
     },
     "forexSelling": {
       "max": {
-        "date": "2026-11-24",
-        "value": "50.6286"
+        "date": "2026-11-25",
+        "value": "50.6441"
       },
       "min": {
         "date": "1950-01-02",
@@ -25,8 +25,8 @@
     },
     "cashBuying": {
       "max": {
-        "date": "2026-11-24",
-        "value": "50.5022"
+        "date": "2026-11-25",
+        "value": "50.5177"
       },
       "min": {
         "date": "1990-01-08",
@@ -35,8 +35,8 @@
     },
     "cashSelling": {
       "max": {
-        "date": "2026-11-24",
-        "value": "50.7046"
+        "date": "2026-11-25",
+        "value": "50.7201"
       },
       "min": {
         "date": "1990-01-08",
