@@ -1,11 +1,11 @@
 {
   "mode": "incremental",
   "range": {
-    "start": "2026-11-04",
+    "start": "2026-11-05",
     "end": "2026-11-26"
   },
-  "comparisons": 204,
-  "exact": 204,
+  "comparisons": 192,
+  "exact": 192,
   "roundingOnly": [],
   "mismatches": [],
   "missingInCrosscheck": [],
